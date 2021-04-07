@@ -1,8 +1,8 @@
 # Welcome to my GitHub  😄
 #### My name is Victor Murta, and I am very glad to you see you in my github page.
 > Passions: 
->> **Coding**
->> **Teaching**
+>> **Coding**<br/>
+>> **Teaching**<br/>
 >> **Interested in learning**
 ##
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/victor-murta-a5a8261a6/))](https://www.linkedin.com/in/victor-murta-a5a8261a6/) 

@@ -3,7 +3,7 @@
 > Passions: 
 >> **Coding**<br/>
 >> **Teaching**<br/>
->> **Interested in learning**
+>> **Learning**
 ##
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/victor-murta-a5a8261a6/))](https://www.linkedin.com/in/victor-murta-a5a8261a6/) 
 [![Gmail Badge](https://img.shields.io/badge/vmurtag@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmurtag@gmail.com)](mailto:vmurtag@gmail.com)

@@ -1,5 +1,5 @@
 # Welcome to my GitHub  😄
-### My name is Victor Murta, and I am very glad to see you in my github page.
+### My name is Victor Murta, and I am very glad to see you visiting my github page.
 > Passions: 
 >> **Coding**<br/>
 >> **Teaching**<br/>
